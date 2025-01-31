@@ -53,7 +53,7 @@ main{
 }
 .feature-item:hover{
     height: fit-content;
-    width: 50%;
+    width: 40%;
     height: 60%;
     font-size: 100%;
 }
