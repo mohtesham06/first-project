@@ -34,7 +34,7 @@ main{
 .features-container{
     padding: 4rem;
     margin-left: 30px;
-    margin-top: 20vw;
+    margin-top: 10vw;
     width: 80vw;
     height: 100vh;
     border-radius: 20px;
@@ -59,7 +59,7 @@ main{
 }
 #features-heading{
     font-size: 3rem;
-    margin: 2vw 30vw;
+    margin: 5vw 37vw;
     position: absolute;
 }
 #feature-title{
@@ -120,7 +120,7 @@ video{
 nav ul li{
     list-style: none;
     display: inline-block;
-    margin: 25px -25px;
+    margin: 40px -25px;
     font-size: 23px;
 }
 nav ul li a{
@@ -157,7 +157,8 @@ nav ul li a:hover{
     left: 0;
     }
     #nextButton {
-    right: 0;
+    /* right: 0; */
+    margin-left: 45.5vw;
     }
     #imageDisplay{
         width: 45vw;
@@ -205,8 +206,8 @@ nav ul li a:hover{
         background-color: rgba(114, 113, 113, 0.493);
     }
 #about-section{
-    margin-top: 20px;
-    line-height: 30px;
+    /* margin-top: 20px;
+    line-height: 30px; */
     background-image: url(pictures/ray-banxmeta1.png);
     background-size: cover;
 }
